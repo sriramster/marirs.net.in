@@ -1,0 +1,21 @@
+#+AUTHOR: Sriram Raghunathan
+#+EMAIL: sriram@marirs.net.in
+#+TITLE: Sriram's Home Page
+#+STARTUP:shownone
+#+STARTUP:align
+#+STARTUP: logdone
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../org.css"/>
+#+OPTIONS: html-style:nil
+
+** [[file:../index.org][Home]]
+
+#+NAME: hello_world.c
+#+BEGIN_SRC c
+#include <stdio.h>
+int main()
+{
+printf("Hello World\n");
+return 0;
+}
+#+END_SRC

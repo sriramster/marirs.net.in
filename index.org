@@ -1,0 +1,18 @@
+#+AUTHOR: Sriram Raghunathan
+#+EMAIL: sriram@marirs.net.in
+#+TITLE: Sriram's Home Page
+#+STARTUP:shownone
+#+STARTUP:align
+#+STARTUP: logdone
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css"/>
+#+OPTIONS: toc:nil num:3 H:4 ^:nil pri:t
+#+OPTIONS: html-style:nil
+
+Hello My name is Sriram Raghunathan, currently living in Chennai. I'm a Computer programmer, 
+I've worked on platforms, system (small, big scale).  As a hobbyist I play around with any new hardware 
+I read about on the internet. This is a reboot of my old blog, will try to keep it as simple 
+
+- [[file:blog.org][Blog]]
+- [[https://github.com/sriramster][Github]]
+- [[file:.marirs.net.in.asc][gpg]]

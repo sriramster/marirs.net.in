@@ -1,0 +1,22 @@
+#+AUTHOR: Sriram Raghunathan
+#+EMAIL: sriram@marirs.net.in
+#+TITLE: Sriram's Home Page
+#+STARTUP:shownone
+#+STARTUP:align
+#+STARTUP: logdone
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../org.css"/>
+#+OPTIONS: html-style:nil
+
+** [[file:../index.org][Home]]
+
+*** Reboot
+
+I was introduced to Computers by my cousin's at around 7th grade,  when I first ran my Graphics program (I ran, only using a ./$PROGRAM) 
+and saw a colorful screen then I queried about it my cousin said he used  <graphics.h>, which was the only engine then on a LG-CRT monitor, 
+with his TVS-gold Keyboard smiling. Well, I knew there was a thing for computers  within me. 
+
+This is my reboot of blogging or noting down life things. I'd gone incognito for couple of years after my kid was born, now its almost 2 years my wife 
+started to work. I thought I needed something for myself. So back to writing about tech and life here. Let's see how far technicaly I keep this. 
+
+Back on hcoop as well, thanks for the admins for giving back my old-ids.
