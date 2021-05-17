@@ -1,0 +1,29 @@
+#+AUTHOR: Sriram Raghunathan
+#+EMAIL: sriram@marirs.net.in
+#+TITLE: Sriram's Home Page
+#+STARTUP:shownone
+#+STARTUP:align
+#+STARTUP: logdone
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../org.css"/>
+#+OPTIONS: html-style:nil
+
+** [[file:../index.org][Home]] 
+
+Tamil Divya Prabhandam minor details.
+
+| Azhwars                             | Pasuram                                                                  |         Number of Pasurams |
+|-------------------------------------+--------------------------------------------------------------------------+----------------------------|
+| Poigai Azhwar                       | Mudal Tiruvandadi                                                        |                        100 |
+| Bhudattazvar                        | Irandam Tiruvandadi                                                      |                        100 |
+| Peyazhvar                           | Mundram Tiruvandadi                                                      |                        100 |
+| Tirumazisaiyazvar                   | Tiruccandaviruttam, Nanmugan Tiruvandadi                                 |                120+96= 216 |
+| Nammazvar(Maranmari)                | Tiruviruttam, Tiruvasiriyam, Periya Tiruvandadi, Tiruvaymozi             | 100 + 7 + 87 + 1102 = 1296 |
+| Madhurakaviyazvar                   | Kanninun Siruttambu                                                      |                         11 |
+| Kulaseggapperumal(Vangeeyarkol)     | Perumal Tirumozi                                                         |                        105 |
+| Periyazvar(Bhattanathan)            | Periyazvar Tirumozi                                                      |                        473 |
+| Andal (ParKodhai)                   | Nacciyar Tirumozi, Tiruppavai                                            |             143 + 30 = 173 |
+| Tondaradippodiyazvar(Patharadipodi) | Tirumalai, Tiruppalliyezucci                                             |               45 + 10 = 55 |
+| Tirumangaiyazvar(ParakalanSol)      | Periya Tirumozi, Periya Tirumadal, Siriya Tirumadal, Tiruvezukurrirukkai |         1084 + 78 + 40 + 1 |
+|                                     | Tirukkurundandagam, Tirunedundandagam                                    |             20 + 30 = 1253 |
+| Tiruvarangattamudanar               | Ramunjara Nurrandadi                                                     |                        108 |

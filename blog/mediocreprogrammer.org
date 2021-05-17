@@ -1,0 +1,38 @@
+#+AUTHOR: Sriram Raghunathan
+#+EMAIL: sriram@marirs.net.in
+#+TITLE: Sriram's Home Page
+#+STARTUP:shownone
+#+STARTUP:align
+#+STARTUP: logdone
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../org.css"/>
+#+OPTIONS: html-style:nil
+
+** [[file:../index.org][Home]]
+
+While reading through [[http://themediocreprogrammer.com/build/pdf/the_mediocre_programmer.pdf][Mediocre Programmer]], noted down a few quotes which I found interesting and motivational to read.
+With my kid born, I've been growing in two directions with him younger and without him older. These two conflicting paths have put my 
+programming journey to a stand still. I badly wanted to re-kindle my motivation to become better and go through the exciting journey which I'd envisioned when it all started.
+But it was difficult, search for motivation became onerous and burdensome. Started reading a few books, read my old blog to understand where I was, and where I'm today.
+After all these may be, may be! I feel there is still some stink left in me. 
+
+Some quotes which I found worth noting are here.
+
+#+BEGIN_SRC text
+There is little point in making yourself miserable to please others.
+#+END_SRC
+
+The below suites my story, I've had moments of exhuberance, at the same time moments of being ignoramus. But, the journey is what makes it interesting. 
+#+BEGIN_SRC text
+Programmer -> We bask in the glories of code that works per-
+fectly the first time. We glower at code that misbehaves. We go from
+cheering ourselves in victory to cursing the machine and threatening
+it with clenched fists. We clench our teeth when bugs rear their mis-
+behaving heads. We swing from emotion to emotion: exuberance, joy,
+fear, anger, resentment, sadness, loneliness, guilt, and shame.
+#+END_SRC
+
+#+BEGIN_SRC text
+Even something as simple as “my computer booted without crashing”
+can be a victory
+#+END_SRC 
